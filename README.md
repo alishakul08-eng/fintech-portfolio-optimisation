@@ -11,8 +11,8 @@ The application processes structural financial profiles through a multi-stage li
 3. **Least Squares Prediction & Matrix Modeling (`3.py` & `main2.py`):** Executes predictive risk analysis using normal equations to compute optimized weights, verifying model forecasting accuracy against historical records.
 
 ## 📈 Graphical Visualizations
-![GUI](1.jpg)
-![Analysis](2.jpg)
+![GUI](GUI.png)
+![Analysis](Analysis.png)
 
 The dashboard renders an interactive three-panel tracking layout powered by **Matplotlib** and **Seaborn**:
 * **Least Squares Prediction:** Contrasts real data profiles against predicted risk curves to validate tracking consistency.
